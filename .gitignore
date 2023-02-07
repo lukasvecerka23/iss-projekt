@@ -1,0 +1,5 @@
+*.wav
+*.txt
+*.mid
+__pycache__/
+.DS_Store
